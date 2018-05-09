@@ -1,0 +1,14 @@
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\bin\Debug\antispam.exe.config
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\bin\Debug\antispam.exe
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\bin\Debug\antispam.pdb
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\bin\Debug\Mail.dll
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\bin\Debug\Mail.xml
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\obj\Debug\antispam.csprojResolveAssemblyReference.cache
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\obj\Debug\antispam.Form1.resources
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\obj\Debug\antispam.Form2.resources
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\obj\Debug\antispam.Properties.Resources.resources
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\obj\Debug\antispam.csproj.GenerateResource.Cache
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\obj\Debug\antispam.exe
+c:\users\арина\documents\visual studio 2015\Projects\antispam\antispam\obj\Debug\antispam.pdb
+C:\Users\Арина\documents\visual studio 2015\Projects\antispam\antispam\bin\Debug\Lab2TechCloud.exe
+C:\Users\Арина\documents\visual studio 2015\Projects\antispam\antispam\bin\Debug\Lab2TechCloud.pdb
